@@ -1,0 +1,125 @@
+aid: spring-health
+name: Spring Health
+description: >-
+  Spring Health is a New York City-based digital mental health company that
+  sells a comprehensive mental healthcare benefit to employers, health plans,
+  brokers, channel partners, and healthcare providers. Its platform combines
+  a clinically validated assessment, AI-driven matching, and a curated
+  provider network to deliver therapy, medication management, coaching, an
+  Employee Assistance Program (EAP), critical-incident response, work-life
+  services, and self-guided digital exercises through a unified member
+  experience branded Spring Life. For health plans and providers, Spring
+  Health offers Springworks — its enterprise care-coordination and
+  care-management offering — alongside a generative-AI member-facing
+  assistant called Guide and clinician-facing AI tooling. Customers include
+  General Mills, Hearst, and Moda Health, and the company publishes
+  outcomes, research, and ROI evidence on long-term cost savings of mental
+  health benefits. Spring Health operates as a B2B2C benefit: it does not
+  expose a public developer portal, OpenAPI specification, SDK, or
+  documented HTTP API. Integrations with HRIS, SSO, eligibility files, and
+  health-plan partners are delivered through enterprise implementation
+  rather than a self-service API, and its GitHub organization
+  (github.com/SpringHealth) has no public repositories.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Mental Health
+  - Behavioral Health
+  - Employee Benefits
+  - Employee Assistance Program
+  - EAP
+  - Health Plans
+  - Healthcare
+  - Therapy
+  - Medication Management
+  - Coaching
+  - Care Navigation
+  - Digital Health
+  - Wellbeing
+  - Workforce Health
+  - Generative AI
+url: https://raw.githubusercontent.com/api-evangelist/spring-health/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.springhealth.com
+  - type: AboutUs
+    url: https://www.springhealth.com/about-us
+  - type: OurApproach
+    url: https://www.springhealth.com/our-approach
+  - type: OurImpact
+    url: https://www.springhealth.com/our-impact
+  - type: OurNetwork
+    url: https://www.springhealth.com/our-network
+  - type: OurCulture
+    url: https://www.springhealth.com/our-culture
+  - type: SpringLife
+    url: https://www.springhealth.com/what-we-do/springlife
+  - type: SpringworksForEmployers
+    url: https://www.springhealth.com/what-we-do/springworks-for-employers
+  - type: SpringworksForHealthPlans
+    url: https://www.springhealth.com/what-we-do/springworks-for-health-plans
+  - type: Guide
+    url: https://www.springhealth.com/what-we-do/guide
+  - type: AI
+    url: https://www.springhealth.com/what-we-do/ai
+  - type: EAP
+    url: https://www.springhealth.com/eap
+  - type: SolutionsEmployers
+    url: https://www.springhealth.com/solutions/for-employers
+  - type: SolutionsHealthPlans
+    url: https://www.springhealth.com/solutions/for-health-plans
+  - type: SolutionsProviders
+    url: https://www.springhealth.com/solutions/for-providers
+  - type: SolutionsBrokers
+    url: https://www.springhealth.com/solutions/for-brokers-consultants
+  - type: SolutionsChannelPartners
+    url: https://www.springhealth.com/solutions/for-channel-partners
+  - type: Customers
+    url: https://www.springhealth.com/customers
+  - type: CaseStudies
+    url: https://www.springhealth.com/case-studies
+  - type: Reviews
+    url: https://www.springhealth.com/reviews
+  - type: Research
+    url: https://www.springhealth.com/research
+  - type: Resources
+    url: https://www.springhealth.com/resources-overview
+  - type: Glossary
+    url: https://www.springhealth.com/glossary
+  - type: Blog
+    url: https://www.springhealth.com/blog
+  - type: News
+    url: https://www.springhealth.com/news
+  - type: EventsWebinars
+    url: https://www.springhealth.com/events-webinars
+  - type: Careers
+    url: https://www.springhealth.com/careers
+  - type: Demo
+    url: https://www.springhealth.com/demo
+  - type: Contact
+    url: https://www.springhealth.com/contact-us
+  - type: Trust
+    url: https://www.springhealth.com/trust
+  - type: PrivacyPolicy
+    url: https://www.springhealth.com/privacy-policy
+  - type: TermsOfService
+    url: https://www.springhealth.com/terms-of-service
+  - type: GrievanceForm
+    url: https://www.springhealth.com/grievance-form
+  - type: MemberRegister
+    url: https://care.springhealth.com/register
+  - type: MemberSignIn
+    url: https://care.springhealth.com/sign_in
+  - type: GitHub
+    url: https://github.com/SpringHealth
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/spring-health
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
