@@ -84,7 +84,7 @@ common:
     url: https://www.springhealth.com/customers
   - type: CaseStudies
     url: https://www.springhealth.com/case-studies
-  - type: Reviews
+  - type: Review
     url: https://www.springhealth.com/reviews
   - type: Research
     url: https://www.springhealth.com/research
