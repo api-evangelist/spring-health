@@ -21,6 +21,17 @@ description: >-
   rather than a self-service API, and its GitHub organization
   (github.com/SpringHealth) has no public repositories.
 type: Index
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
