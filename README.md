@@ -1,4 +1,4 @@
-# spring-health
+# Spring Health
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Spring Health — enterprise mental health benefits platform (EAP, therapy, coaching, Springworks, Guide AI).
+Spring Health is a New York City-based digital mental health company that sells a comprehensive mental healthcare benefit to employers, health plans, brokers, channel partners, and healthcare providers. Its platform combines a clinically validated assessment, AI-driven matching, and a curated provider network to deliver therapy, medication management, coaching, an Employee Assistance Program (EAP), critical-incident response, work-life services, and self-guided digital exercises through a unified member experience branded Spring Life. For health plans and providers, Spring Health offers Springworks — its enterprise care-coordination and care-management offering — alongside a generative-AI member-facing assistant called Guide and clinician-facing AI tooling. Customers include General Mills, Hearst, and Moda Health, and the company publishes outcomes, research, and ROI evidence on long-term cost savings of mental health benefits. Spring Health operates as a B2B2C benefit: it does not expose a public developer portal, OpenAPI specification, SDK, or documented HTTP API. Integrations with HRIS, SSO, eligibility files, and health-plan partners are delivered through enterprise implementation rather than a self-service API, and its GitHub organization (github.com/SpringHealth) has no public repositories.
+
+**Areas:** Mental Health · Behavioral Health · Employee Benefits · Employee Assistance Program · EAP · Health Plans · Healthcare · Therapy · Medication Management · Coaching · Care Navigation · Digital Health
+
+## Spring Health on APIs.io
+
+Everything profiled for Spring Health is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/spring-health/](https://apis.io/providers/spring-health/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Spring Health Domain Security](https://apis.io/security/spring-health/spring-health-domain-security/)
+- [Spring Health Trust Center](https://apis.io/security/spring-health/spring-health-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.springhealth.com)
+- [Blog](https://www.springhealth.com/blog)
+- [Terms of service](https://www.springhealth.com/terms-of-service)
+- [Privacy policy](https://www.springhealth.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 12.1** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 28.9 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 14.0** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/spring-health/](https://apis.io/providers/spring-health/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Spring Health: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/spring-health/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
